@@ -211,9 +211,7 @@ See [the Releases section of our GitHub project](https://github.com/twbs/bootstr
 
 Thanks to [BrowserStack](https://www.browserstack.com/) for providing the infrastructure that allows us to test in real browsers!
 
-<a href="https://www.netlify.com/">
-  <img src="https://www.netlify.com/v3/img/components/full-logo-light.svg" alt="Netlify Logo" width="147" height="40">
-</a>
+[![Netlify Logo](https://www.netlify.com/v3/img/components/full-logo-dark.svg#gh-dark-mode-only)](https://www.netlify.com/)[![Netlify Logo](https://www.netlify.com/v3/img/components/full-logo-light.svg#gh-light-mode-only)](https://www.netlify.com/)
 
 Thanks to [Netlify](https://www.netlify.com/) for providing us with Pull Request Previews!
 
